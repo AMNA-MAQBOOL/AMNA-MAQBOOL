@@ -5,7 +5,6 @@
 This system is designed for use strictly by the employees of a
 hospital network. The network includes several segments. 
 The database system should be able to query basic information about the hospital employees such as staff ID number, name, address, and phone number etc. The system should be able to query information about room and patient assignments for each employee of a department. Data can be fetched by various ways, due to some rules applied on database elements.
-
 ## Facts and figures  
 
 > I) This is a real life Database example, containing all real data:
