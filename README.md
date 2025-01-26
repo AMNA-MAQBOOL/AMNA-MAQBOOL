@@ -40,16 +40,11 @@ The database system should be able to query basic information about the hospital
 
 This is the complete data dictionery used in code:
 ![image](https://github.com/user-attachments/assets/e7f92638-0d46-41d9-87be-c09e6209eb9d)
-
-
-
-![DD1](/Database%20images/Capture1.PNG)  
-![DD1](/Database%20images/Capture2.PNG)   
-![DD1](/Database%20images/Capture3.PNG) 
-
+![image](https://github.com/user-attachments/assets/300c1184-54bf-465b-a946-8507e280eaee)
+![image](https://github.com/user-attachments/assets/2ecf3c07-8886-43b5-9d44-3c5b1823b850)
 ## ERD
+![image](https://github.com/user-attachments/assets/74a45412-8cdf-4cd1-bf90-99c79234e5dd)
 
-![DD1](/Database%20images/ERD.PNG) 
 
 SQL code 
 
