@@ -39,6 +39,9 @@ The database system should be able to query basic information about the hospital
 ## Data Dictionery
 
 This is the complete data dictionery used in code:
+![image](https://github.com/user-attachments/assets/e7f92638-0d46-41d9-87be-c09e6209eb9d)
+
+
 
 ![DD1](/Database%20images/Capture1.PNG)  
 ![DD1](/Database%20images/Capture2.PNG)   
